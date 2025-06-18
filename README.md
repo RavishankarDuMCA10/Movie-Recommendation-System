@@ -16,7 +16,7 @@ To run this project locally, follow these steps:
 
 ```bash
 git clone https://github.com/RavishankarDuMCA10/Movie-Recommendation-System.git
-cd movie-recommendation-system
+cd Movie-Recommendation-System
 ```
 
 ### 2. Install Dependencies
@@ -33,13 +33,6 @@ Then install the required packages:
 ```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
-
-### 3. Launch Jupyter Notebook
-
-```bash
-jupyter notebook Movie-Recommendation-System.ipynb
-```
-
 ---
 
 ## 🗂️ Project Structure and Code
@@ -48,9 +41,7 @@ jupyter notebook Movie-Recommendation-System.ipynb
 movie-recommendation-system/
 │
 ├── Movie-Recommendation-System.ipynb  # Main notebook with data processing & recommendation logic
-├── README.md                          # Project overview and usage
-├── requirements.txt                   # Dependencies (optional)
-└── data/                              # Folder containing the MovieLens dataset
+└── README.md                          # Project overview and usage
 ```
 
 ---
