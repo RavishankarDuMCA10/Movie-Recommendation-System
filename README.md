@@ -31,11 +31,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 Then install the required packages:
 
 ```bash
-pip install -r requirements.txt
-```
-
-> If `requirements.txt` is not available, manually install:
-```bash
 pip install numpy pandas scikit-learn matplotlib seaborn
 ```
 
